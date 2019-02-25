@@ -1,0 +1,7 @@
+{
+"utterance":"list all my events",
+"intent_type":"GetEventIntent",
+"intent":{
+"GetEventIntentKeyword":"list all my events"
+}
+}
