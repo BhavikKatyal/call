@@ -41,7 +41,7 @@ class NewSkill(MycroftSkill):
         self.register_intent(get_event_intent, self.handle_get_event_intent)
 
 
-    def handle_thank_you_intent(self, message):
+    def handle_get_event_intent(self, message):
         creds = None
         # The file token.pickle stores the user's access and refresh tokens, and is
         # created automatically when the authorization flow completes for the first
