@@ -41,7 +41,7 @@ class NewSkill(MycroftSkill):
 
     def handle_cal_event_intent(self, message):
 
-        self.speak_dialog("Did I forget to introduce myself? I’m your voice Assistant. Maverick!!”)
+        self.speak_dialog("Hello, Bhavik!!")
 
     
 
