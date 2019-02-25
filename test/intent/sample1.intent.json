@@ -1,7 +1,7 @@
 {
 "utterance":"my name is bhavik",
-"intent_type":"GetEventIntent",
+"intent_type":"CalEventIntent",
 "intent":{
-"GetEventIntentKeyword":"my name is bhavik"
+"CalEventIntentKeyword":"my name is bhavik"
 }
 }
